@@ -1,0 +1,221 @@
+MANAGEMENT SCIENCE!!!!!!!!
+
+Ron Adner
+Title: Demand heterogeneity and technology evolution: implications for product and process innovation
+Authors and Publication Info: R Adner, D Levinthal - Management science, 2001 - pubsonline.informs.org
+
+Title: Frenemies in platform markets: Heterogeneous profit foci as drivers of compatibility decisions
+Authors and Publication Info: R Adner, J Chen, F Zhu - Management Science, 2020 - pubsonline.informs.org
+
+Title: Positioning on a multiattribute landscape
+Authors and Publication Info: R Adner, FA Csaszar, PB Zemsky - Management Science, 2014 - pubsonline.informs.org
+
+Pino Audia
+Title: Past success and creativity over time: A study of inventors in the hard disk drive industry
+Authors and Publication Info: PG Audia, JA Goncalo - Management science, 2007 - pubsonline.informs.org
+
+Title: Less likely to fail: Low performance, firm size, and factory expansion in the shipbuilding industry
+Authors and Publication Info: PG Audia, HR Greve - Management science, 2006 - pubsonline.informs.org
+
+Title: [CITATION][C] E DECISIONS AND FORECASTING-Less likely to fail: Low performance, firm size, and factory expansion in the shipbuilding industry Ef: 150
+Authors and Publication Info: PG Audia, HR Greve - Operations Research Management Science, 2006
+
+Sydney Finkelstein
+Giovanni Gavetti
+Title: 50th Anniversay Article: The Strategy Field from the Perspective of Management Science: Divergent Strands and Possible Integration
+Authors and Publication Info: G Gavetti, DA Levinthal - Management science, 2004 - pubsonline.informs.org
+
+Title: [CITATION][C] A ORGANIZATIONAL DYNAMICS-Cognition and hierarchy: Rethinking the microfoundations of capabilities' development Ag: 100
+Authors and Publication Info: G Gavetti - Operations Research Management Science, 2006
+
+Vijay Govindarajan
+Constance E Helfat
+Title: Evolutionary trajectories in petroleum firm R&D
+Authors and Publication Info: CE Helfat - Management science, 1994 - pubsonline.informs.org
+
+Hart Posen
+Title: Chasing a moving target: Exploitation and exploration in dynamic environments
+Authors and Publication Info: HE Posen, DA Levinthal - Management science, 2012 - pubsonline.informs.org
+
+Title: Spillover asymmetry and why it matters
+Authors and Publication Info: AM Knott, HE Posen, B Wu - Management Science, 2009 - pubsonline.informs.org
+
+Ella L.J. Bell Smith
+John M Doris
+Title: [HTML][HTML] Modelling for the proposed roll-out of the '111'service in Wales: a case study
+Authors and Publication Info: M Tuson, T England, D Behrens, R Bowen… - … Management Science, 2018 - Springer
+
+Eric Abrahamson
+Modupe Akinola
+Daniel Ames
+Title: On the external validity of social preference games: a systematic lab-field study
+Authors and Publication Info: MM Galizzi, D Navarro-Martinez - Management Science, 2019 - pubsonline.informs.org
+
+Title: Cooperative games in stochastic characteristic function form
+Authors and Publication Info: D Granot - Management Science, 1977 - pubsonline.informs.org
+
+Title: Interdiction games on Markovian PERT networks
+Authors and Publication Info: E Gutin, D Kuhn, W Wiesemann - Management Science, 2015 - pubsonline.informs.org
+
+Title: 50th Anniversay Article: The Strategy Field from the Perspective of Management Science: Divergent Strands and Possible Integration
+Authors and Publication Info: G Gavetti, DA Levinthal - Management science, 2004 - pubsonline.informs.org
+
+Title: First-party content and coordination in two-sided markets
+Authors and Publication Info: A Hagiu, D Spulber - Management Science, 2013 - pubsonline.informs.org
+
+Title: Trading as entertainment?
+Authors and Publication Info: D Dorn, P Sengmueller - Management science, 2009 - pubsonline.informs.org
+
+Joel Brockner
+Meyer Feldberg
+Adam Galinsky
+Kathryn Harrigan
+E Tory Higgins
+Title: Competition and the efficiency of markets for technology
+Authors and Publication Info: ML Allain, E Henry, M Kyle - Management Science, 2016 - pubsonline.informs.org
+
+Title: Rapidly evolving technologies and startup exits
+Authors and Publication Info: DE Bowen III, L Frésard, G Hoberg - Management Science, 2023 - pubsonline.informs.org
+
+Raymond Horton
+Paul Ingram
+Title: Survival-enhancing learning in the Manhattan hotel industry, 1898–1980
+Authors and Publication Info: JAC Baum, P Ingram - Management science, 1998 - pubsonline.informs.org
+
+Title: The transfer of experience in groups of organizations: Implications for performance and competition
+Authors and Publication Info: P Ingram, T Simons - Management Science, 2002 - pubsonline.informs.org
+
+Sheena Iyengar
+Bruce Kogut
+Title: Does good science lead to valuable knowledge? Biotechnology firms and the evolutionary logic of citation patterns
+Authors and Publication Info: M Gittelman, B Kogut - Management Science, 2003 - pubsonline.informs.org
+
+Title: Joint ventures and the option to expand and acquire
+Authors and Publication Info: B Kogut - Management science, 1991 - pubsonline.informs.org
+
+Title: Localization of knowledge and the mobility of engineers in regional networks
+Authors and Publication Info: P Almeida, B Kogut - Management science, 1999 - pubsonline.informs.org
+
+Title: Operating flexibility, global manufacturing, and the option value of a multinational network
+Authors and Publication Info: B Kogut, N Kulatilaka - Management science, 1994 - pubsonline.informs.org
+
+Title: Emergent properties of a new financial market: American venture capital syndication, 1960–2005
+Authors and Publication Info: B Kogut, P Urso, G Walker - Management Science, 2007 - pubsonline.informs.org
+
+Stephan Meier
+Title: Another hidden cost of incentives: The detrimental effect on norm enforcement
+Authors and Publication Info: A Fuster, S Meier - Management Science, 2010 - pubsonline.informs.org
+
+Malia Mason
+Michael Morris
+Sushil Bikchandani
+M Keith Chen
+Title: Modeling a presidential prediction market
+Authors and Publication Info: MK Chen, JE Ingersoll Jr… - Management Science, 2008 - pubsonline.informs.org
+
+Title: Do digital platforms reduce moral hazard? The case of Uber and taxis
+Authors and Publication Info: M Liu, E Brynjolfsson, J Dowlatabadi - Management Science, 2021 - pubsonline.informs.org
+
+Title: Choosing to choose: The effects of decoys and prior choice on deferral
+Authors and Publication Info: WM Hedgcock, RS Rao, H Chen - Management Science, 2016 - pubsonline.informs.org
+
+Title: Managing broader product lines through delayed differentiation using vanilla boxes
+Authors and Publication Info: JM Swaminathan, SR Tayur - Management Science, 1998 - pubsonline.informs.org
+
+Title: Team familiarity, role experience, and performance: Evidence from Indian software services
+Authors and Publication Info: RS Huckman, BR Staats, DM Upton - Management science, 2009 - pubsonline.informs.org
+
+Magali Delmas
+Marvin Lieberman
+Title: Inventory reduction and productivity growth: Linkages in the Japanese automotive industry
+Authors and Publication Info: MB Lieberman, L Demeester - Management science, 1999 - pubsonline.informs.org
+
+Title: Assessing the resource base of Japanese and US auto producers: A stochastic frontier production function approach
+Authors and Publication Info: MB Lieberman, R Dhawan - Management science, 2005 - pubsonline.informs.org
+
+Title: Firm-level productivity and management influence: A comparison of US and Japanese automobile producers
+Authors and Publication Info: MB Lieberman, LJ Lau, MD Williams - Management Science, 1990 - pubsonline.informs.org
+
+John W Mamer
+Title: Uncertainty, competition, and the adoption of new technology
+Authors and Publication Info: JW Mamer, KF McCardle - Management Science, 1987 - pubsonline.informs.org
+
+Title: Discounted and per unit costs of product warranty
+Authors and Publication Info: JW Mamer - Management Science, 1987 - pubsonline.informs.org
+
+Title: Optimizing field repair kits based on job completion rate
+Authors and Publication Info: JW Mamer, SA Smith - Management Science, 1982 - pubsonline.informs.org
+
+Title: A decomposition-based pricing procedure for large-scale linear programs: an application to the linear multicommodity flow problem
+Authors and Publication Info: JW Mamer, RD McBride - Management Science, 2000 - pubsonline.informs.org
+
+Title: A constrained capital budgeting problem with applications to repair kit selection
+Authors and Publication Info: JW Mamer, AW Shogan - Management Science, 1987 - pubsonline.informs.org
+
+Title: Job completion based inventory systems: Optimal policies for repair kits and spare machines
+Authors and Publication Info: JW Mamer, SA Smith - Management Science, 1985 - pubsonline.informs.org
+
+Title: On approximate queueing models of dynamic job shops
+Authors and Publication Info: JA Buzacott, JG Shanthikumar - Management Science, 1985 - pubsonline.informs.org
+
+Title: [CITATION][C] Innovation and the Persistence of Monopoly
+Authors and Publication Info: SA Lippman, JW Mamer - 1988 - Western Management Science …
+
+Mariko Sakakibara
+Olav Sorenson
+Title: Interdependence and adaptability: organizational learning and the long–term effect of integration
+Authors and Publication Info: O Sorenson - Management Science, 2003 - pubsonline.informs.org
+
+Title: Home sweet home: Entrepreneurs' location choices and the performance of their ventures
+Authors and Publication Info: MS Dahl, O Sorenson - Management science, 2012 - pubsonline.informs.org
+
+Title: Noncompete covenants: Incentives to innovate or impediments to growth
+Authors and Publication Info: S Samila, O Sorenson - Management Science, 2011 - pubsonline.informs.org
+
+Title: Brokers and competitive advantage
+Authors and Publication Info: MD Ryall, O Sorenson - Management Science, 2007 - pubsonline.informs.org
+
+Title: Editorial Objectives: Organizations and Social Networks
+Authors and Publication Info: O Sorenson - Management Science, 2006 - pubsonline.informs.org
+
+Wes Yin
+Pierre Azoulay
+Request was not successful. 429
+Michael Cusumano
+Request was not successful. 429
+Fiona E Murray
+Request was not successful. 429
+Edward Roberts
+Request was not successful. 429
+Scott Stern
+Request was not successful. 429
+Eric Arthur von Hippel
+Request was not successful. 429
+Ezra W Zuckerman Sivan
+Request was not successful. 429
+Ramon Casadesus-Masanell
+Request was not successful. 429
+Juan Alcacer
+Request was not successful. 429
+Bharat N Anand
+Request was not successful. 429
+Felix Oberholzer-Gee
+Request was not successful. 429
+Michael E Porter
+Request was not successful. 429
+Jan W Rivkin
+Request was not successful. 429
+Rebecca M Henderson
+Request was not successful. 429
+Raffaella Sadun
+Request was not successful. 429
+Tarun Khanna
+Request was not successful. 429
+Eric J Van den Steen
+Request was not successful. 429
+Dennis A Yao
+Request was not successful. 429
+David B Yoffie
+Request was not successful. 429
+Cynthia A Montgomery
+Request was not successful. 429
