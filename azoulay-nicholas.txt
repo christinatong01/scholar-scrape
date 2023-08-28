@@ -1,0 +1,278 @@
+MANAGEMENT SCIENCE!!!!!!!!
+
+Pierre Azoulay
+Request was not successful. 429
+Michael Cusumano
+Title: A quantitative analysis of US and Japanese practice and performance in software development
+Authors and Publication Info: MA Cusumano, CF Kemerer - Management Science, 1990 - pubsonline.informs.org
+
+Title: Services and the business models of product firms: An empirical analysis of the software industry
+Authors and Publication Info: FF Suarez, MA Cusumano, SJ Kahl - Management Science, 2013 - pubsonline.informs.org
+
+Title: Complementary resources and cooperative research: a model of research joint ventures among competitors
+Authors and Publication Info: DK Sinha, MA Cusumano - Management science, 1991 - pubsonline.informs.org
+
+Fiona E Murray
+Title: Exploring trade-offs in the organization of scientific work: Collaboration and scientific reward
+Authors and Publication Info: M Bikard, F Murray, JS Gans - Management science, 2015 - pubsonline.informs.org
+
+Edward Roberts
+Title: The trade-off between efficiency and learning in interorganizational relationships for product development
+Authors and Publication Info: M Sobrero, EB Roberts - Management Science, 2001 - pubsonline.informs.org
+
+Title: New product strategy in small technology-based firms: A pilot study
+Authors and Publication Info: MH Meyer, EB Roberts - Management Science, 1986 - pubsonline.informs.org
+
+Title: The financing threshold effect on success and failure of biomedical and pharmaceutical start-ups
+Authors and Publication Info: EB Roberts, O Hauptman - Management Science, 1987 - pubsonline.informs.org
+
+Title: A systems study of policy formulation in a vertically-integrated firm
+Authors and Publication Info: EB Roberts, DI Abrams, HB Weil - Management Science, 1968 - pubsonline.informs.org
+
+Title: Industrial dynamics and the design of management control systems
+Authors and Publication Info: EB Roberts - Management Science, 1963 - pubsonline.informs.org
+
+Scott Stern
+Title: Do scientists pay to be scientists?
+Authors and Publication Info: S Stern - Management science, 2004 - pubsonline.informs.org
+
+Title: The impact of uncertain intellectual property rights on the market for ideas: Evidence from patent grant delays
+Authors and Publication Info: JS Gans, DH Hsu, S Stern - Management science, 2008 - pubsonline.informs.org
+
+Title: How does outsourcing affect performance dynamics? Evidence from the automobile industry
+Authors and Publication Info: S Novak, S Stern - Management Science, 2008 - pubsonline.informs.org
+
+Title: Complementarity among vertical integration decisions: Evidence from automobile product development
+Authors and Publication Info: S Novak, S Stern - Management Science, 2009 - pubsonline.informs.org
+
+Title: Enabling entrepreneurial choice
+Authors and Publication Info: A Agrawal, JS Gans, S Stern - Management Science, 2021 - pubsonline.informs.org
+
+Eric Arthur von Hippel
+Ezra W Zuckerman Sivan
+Ramon Casadesus-Masanell
+Title: Dynamic mixed duopoly: A model motivated by Linux vs. Windows
+Authors and Publication Info: R Casadesus-Masanell… - Management Science, 2006 - pubsonline.informs.org
+
+Title: Wintel: Cooperation and conflict
+Authors and Publication Info: R Casadesus-Masanell, DB Yoffie - Management Science, 2007 - pubsonline.informs.org
+
+Title: Strategies to fight ad-sponsored rivals
+Authors and Publication Info: R Casadesus-Masanell, F Zhu - Management science, 2010 - pubsonline.informs.org
+
+Title: Mixed source
+Authors and Publication Info: R Casadesus-Masanell, G Llanes - Management Science, 2011 - pubsonline.informs.org
+
+Title: [CITATION][C] Wintel: Cooperation and Conflict, Ramon Casadesus-Masanell, David B. Yoffie
+Authors and Publication Info: CM Ramon - Management Science, 2007
+
+Juan Alcacer
+Title: Location strategies and knowledge spillovers
+Authors and Publication Info: J Alcácer, W Chung - Management science, 2007 - pubsonline.informs.org
+
+Title: Knowledge seeking and location choice of foreign direct investment in the United States
+Authors and Publication Info: W Chung, J Alcácer - Management science, 2002 - pubsonline.informs.org
+
+Title: Spatial organization of firms and location choices through the value chain
+Authors and Publication Info: J Alcacer, M Delgado - Management science, 2016 - pubsonline.informs.org
+
+Title: Local R&D strategies and multilocation firms: The role of internal linkages
+Authors and Publication Info: J Alcácer, M Zhao - Management Science, 2012 - pubsonline.informs.org
+
+Title: Location choices across the value chain: How activity and capability influence collocation
+Authors and Publication Info: J Alcácer - Management Science, 2006 - pubsonline.informs.org
+
+Bharat N Anand
+Felix Oberholzer-Gee
+Michael E Porter
+Title: What do we know about variance in accounting profitability?
+Authors and Publication Info: AM McGahan, ME Porter - Management Science, 2002 - pubsonline.informs.org
+
+Jan W Rivkin
+Title: Imitation of complex strategies
+Authors and Publication Info: JW Rivkin - Management science, 2000 - pubsonline.informs.org
+
+Title: Patterned interactions in complex systems: Implications for exploration
+Authors and Publication Info: JW Rivkin, N Siggelkow - Management science, 2007 - pubsonline.informs.org
+
+Title: Balancing search and stability: Interdependencies among elements of organizational design
+Authors and Publication Info: JW Rivkin, N Siggelkow - Management science, 2003 - pubsonline.informs.org
+
+Rebecca M Henderson
+Title: Putting patents in context: Exploring knowledge transfer from MIT
+Authors and Publication Info: A Agrawal, R Henderson - Management science, 2002 - pubsonline.informs.org
+
+Title: Innovation in the 21st century: Architectural change, purpose, and the challenges of our time
+Authors and Publication Info: R Henderson - Management Science, 2021 - pubsonline.informs.org
+
+Title: [PDF][PDF] e-companion
+Authors and Publication Info: R Henderson, ED Beinhocker, LI Newman - Management Science, 2007 - mit.edu
+
+Raffaella Sadun
+Tarun Khanna
+Title: Firm-induced migration paths and strategic human-capital outcomes
+Authors and Publication Info: P Choudhury, T Khanna… - Management Science, 2023 - pubsonline.informs.org
+
+Title: Firm asymmetries and sequential R&D: Theory and evidence from the mainframe computer industry
+Authors and Publication Info: T Khanna, M Iansiti - Management Science, 1997 - pubsonline.informs.org
+
+Eric J Van den Steen
+Title: Culture clash: The costs and benefits of homogeneity
+Authors and Publication Info: E Van den Steen - Management Science, 2010 - pubsonline.informs.org
+
+Title: Overconfidence by Bayesian-rational agents
+Authors and Publication Info: E Van den Steen - Management Science, 2011 - pubsonline.informs.org
+
+Title: A formal theory of strategy
+Authors and Publication Info: EV Steen - Management Science, 2017 - pubsonline.informs.org
+
+Title: Managing know-how
+Authors and Publication Info: D Lee, E Van den Steen - Management Science, 2010 - pubsonline.informs.org
+
+Title: Strategy and the strategist: How it matters who develops the strategy
+Authors and Publication Info: E Van den Steen - Management Science, 2018 - pubsonline.informs.org
+
+Dennis A Yao
+Title: The persistence and transfer of learning in industrial settings
+Authors and Publication Info: L Argote, SL Beckman, D Epple - Management science, 1990 - pubsonline.informs.org
+
+Title: Note on adjustments to analysts' earnings forecasts based upon systematic cross-sectional components of prior-period errors
+Authors and Publication Info: PT Elgers, MH Lo, D Murray - Management Science, 1995 - pubsonline.informs.org
+
+David B Yoffie
+Title: Wintel: Cooperation and conflict
+Authors and Publication Info: R Casadesus-Masanell, DB Yoffie - Management Science, 2007 - pubsonline.informs.org
+
+Cynthia A Montgomery
+Title: What is an attractive industry?
+Authors and Publication Info: B Wernerfelt, CA Montgomery - Management Science, 1986 - pubsonline.informs.org
+
+Title: Sources of superior performance: Market share versus industry effects in the US brewing industry
+Authors and Publication Info: CA Montgomery, B Wernerfelt - Management Science, 1991 - pubsonline.informs.org
+
+Ryan W Buell
+Title: The labor illusion: How operational transparency increases perceived value
+Authors and Publication Info: RW Buell, MI Norton - Management Science, 2011 - pubsonline.informs.org
+
+Title: Creating reciprocal value through operational transparency
+Authors and Publication Info: RW Buell, T Kim, CJ Tsay - Management Science, 2017 - pubsonline.informs.org
+
+Title: How transparency into internal and external responsibility initiatives influences consumer choice
+Authors and Publication Info: RW Buell, B Kalkanci - Management Science, 2021 - pubsonline.informs.org
+
+Title: Last-place aversion in queues
+Authors and Publication Info: RW Buell - Management Science, 2021 - pubsonline.informs.org
+
+Title: The customer may not always be right: customer compatibility and service performance
+Authors and Publication Info: RW Buell, D Campbell, FX Frei - Management Science, 2021 - pubsonline.informs.org
+
+Title: Experimental evidence of pooling outcomes under information asymmetry
+Authors and Publication Info: W Schmidt, RW Buell - Management Science, 2017 - pubsonline.informs.org
+
+Amitabh Chandra
+Amy C Edmonson
+Frances X Frei
+Title: Do better customers utilize electronic distribution channels? The case of PC banking
+Authors and Publication Info: LM Hitt, FX Frei - Management Science, 2002 - pubsonline.informs.org
+
+Title: The customer may not always be right: customer compatibility and service performance
+Authors and Publication Info: RW Buell, D Campbell, FX Frei - Management Science, 2021 - pubsonline.informs.org
+
+Shane M Greenstein
+Title: Ideology and composition among an online crowd: Evidence from Wikipedians
+Authors and Publication Info: S Greenstein, G Gu, F Zhu - Management Science, 2021 - pubsonline.informs.org
+
+Gary P Pisano
+Title: The firm specificity of individual performance: Evidence from cardiac surgery
+Authors and Publication Info: RS Huckman, GP Pisano - Management Science, 2006 - pubsonline.informs.org
+
+Title: [PDF][PDF] Management Insights
+Authors and Publication Info: RS Huckman, GP Pisano - MANAGEMENT SCIENCE, 2006 - researchgate.net
+
+Janice H Hammond
+Ananth Raman
+Title: Inventory record inaccuracy: An empirical analysis
+Authors and Publication Info: N DeHoratius, A Raman - Management science, 2008 - pubsonline.informs.org
+
+Title: An econometric analysis of inventory turnover performance in retail services
+Authors and Publication Info: V Gaur, ML Fisher, A Raman - Management science, 2005 - pubsonline.informs.org
+
+Title: Do inventory and gross margin data improve sales forecasts for US public retailers?
+Authors and Publication Info: S Kesavan, V Gaur, A Raman - Management Science, 2010 - pubsonline.informs.org
+
+Title: Agency costs in a supply chain with demand uncertainty and price competition
+Authors and Publication Info: VG Narayanan, A Raman, J Singh - Management Science, 2005 - pubsonline.informs.org
+
+Marco Iansiti
+Title: Developing products on “Internet time”: The anatomy of a flexible development process
+Authors and Publication Info: A MacCormack, R Verganti, M Iansiti - Management science, 2001 - pubsonline.informs.org
+
+Title: How the incumbent can win: Managing technological transitions in the semiconductor industry
+Authors and Publication Info: M Iansiti - Management Science, 2000 - pubsonline.informs.org
+
+Title: Firm asymmetries and sequential R&D: Theory and evidence from the mainframe computer industry
+Authors and Publication Info: T Khanna, M Iansiti - Management Science, 1997 - pubsonline.informs.org
+
+Willy C Shih
+Karim R Lakhani
+Stefan H Thomke
+Title: Managing experimentation in the design of new products
+Authors and Publication Info: SH Thomke - Management science, 1998 - pubsonline.informs.org
+
+Title: Parallel and sequential testing of design alternatives
+Authors and Publication Info: CH Loch, C Terwiesch, S Thomke - Management Science, 2001 - pubsonline.informs.org
+
+Title: Sequential testing in product development
+Authors and Publication Info: S Thomke, DE Bell - Management Science, 2001 - pubsonline.informs.org
+
+Michael W Toffel
+Title: Quality management and job quality: How the ISO 9001 standard for quality management systems affects employees and employers
+Authors and Publication Info: DI Levine, MW Toffel - Management Science, 2010 - pubsonline.informs.org
+
+Title: How scheduling can bias quality assessment: Evidence from food-safety inspections
+Authors and Publication Info: MR Ibanez, MW Toffel - Management science, 2020 - pubsonline.informs.org
+
+Feng Zhu
+Title: Responses to entry in multi-sided markets: The impact of Craigslist on local newspapers
+Authors and Publication Info: R Seamans, F Zhu - Management Science, 2014 - pubsonline.informs.org
+
+Title: Ad revenue and content commercialization: Evidence from blogs
+Authors and Publication Info: M Sun, F Zhu - Management Science, 2013 - pubsonline.informs.org
+
+Title: Strategies to fight ad-sponsored rivals
+Authors and Publication Info: R Casadesus-Masanell, F Zhu - Management science, 2010 - pubsonline.informs.org
+
+Title: Frenemies in platform markets: Heterogeneous profit foci as drivers of compatibility decisions
+Authors and Publication Info: R Adner, J Chen, F Zhu - Management Science, 2020 - pubsonline.informs.org
+
+Title: Trust and disintermediation: Evidence from an online freelance marketplace
+Authors and Publication Info: G Gu, F Zhu - Management Science, 2021 - pubsonline.informs.org
+
+Title: Information transparency, multihoming, and platform competition: A natural experiment in the daily deals market
+Authors and Publication Info: H Li, F Zhu - Management Science, 2021 - pubsonline.informs.org
+
+Title: Composition of essential oil of Chinese Chenopodium ambrosioides and insecticidal activity against maize weevil, Sitophilus zeamais
+Authors and Publication Info: SS Chu, J Feng Hu, ZL Liu - Pest Management Science, 2011 - Wiley Online Library
+
+Title: Ideology and composition among an online crowd: Evidence from Wikipedians
+Authors and Publication Info: S Greenstein, G Gu, F Zhu - Management Science, 2021 - pubsonline.informs.org
+
+Thomas R Eisenmann
+Teresa M Amabile
+Lynda M Applegate
+Josh Lerner
+Title: Anticorruption, government subsidies, and innovation: Evidence from China
+Authors and Publication Info: L Fang, J Lerner, C Wu, Q Zhang - Management Science, 2023 - pubsonline.informs.org
+
+Shai Benjamin Bernstein
+Lauren H Cohen
+Title: Hiring cheerleaders: Board appointments of “independent” directors
+Authors and Publication Info: L Cohen, A Frazzini, CJ Malloy - Management Science, 2012 - pubsonline.informs.org
+
+Title: Patent trolls: Evidence from targeted firms
+Authors and Publication Info: L Cohen, UG Gurun, SD Kominers - Management Science, 2019 - pubsonline.informs.org
+
+Title: Casting conference calls
+Authors and Publication Info: L Cohen, D Lou, CJ Malloy - Management science, 2020 - pubsonline.informs.org
+
+Tom Nicholas
